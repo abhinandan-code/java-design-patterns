@@ -1,4 +1,4 @@
-package com.design_pattern.abstract_factory;
+package com.creational.design_pattern.abstract_factory;
 
 /*
 🚌 Example: Vehicle Manufacturing Factory
