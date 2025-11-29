@@ -1,4 +1,4 @@
-package com.design_pattern.factory;
+package com.creational.design_pattern.factory;
 
 /**
  * Author: abhinandan

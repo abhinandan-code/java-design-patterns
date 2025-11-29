@@ -1,4 +1,4 @@
-package com.design_pattern.singleton;
+package com.creational.design_pattern.singleton;
 
 /**
  * Author: abhinandan

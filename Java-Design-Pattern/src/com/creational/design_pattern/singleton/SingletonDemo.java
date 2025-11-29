@@ -1,4 +1,4 @@
-package com.design_pattern.singleton;
+package com.creational.design_pattern.singleton;
 
 /*
     🧠 What is Singleton Design Pattern?

@@ -1,4 +1,4 @@
-package com.design_pattern.builder;
+package com.creational.design_pattern.builder;
 
 /**
  * Author: abhinandan
